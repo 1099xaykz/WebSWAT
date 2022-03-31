@@ -8,6 +8,6 @@ algo mucho mas rapido y facil
 <ul>
   <li>git clone https://github.com/1099xaykz/WebSWAT</li>
   <li>cd WebSWAT</li>
-  <li>python3 installer</li>
+  <li>python3 installer.py</li>
   <li>python3 main.py</li>
 </ul>
